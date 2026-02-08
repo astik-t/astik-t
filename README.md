@@ -1,5 +1,5 @@
 # 💫 About Me:
-I’m Astik Tripathi.<br><br>I’m currently learning and developing my skills in software development, data analysis, and backend systems. I enjoy building practical projects while strengthening my core programming fundamentals.<br><br>🛠️ Skills<br>Languages: Python, C, SQL<br>Data & Analysis: Pandas, NumPy<br>Databases: MySQL, PostgreSQL<br><br>
+I’m Astik Tripathi.<br><br>I’m currently learning and developing my skills in software development, data analysis, and backend systems. I enjoy building practical projects while strengthening my core programming fundamentals.<br><br>🛠️ Skills<br>Languages: Python, C, SQL<br>Data & Analysis: Pandas, NumPy, Matplotlib, Seaborn<br>Databases: MySQL, PostgreSQL<br><br>
 
 
 ## 🌐 Socials:
